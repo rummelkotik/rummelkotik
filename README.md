@@ -1,16 +1,25 @@
-## Hi there 👋
+### Привет, я Владислав 👋
 
-<!--
-**rummelkotik/rummelkotik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack разработчик, создаю современные веб-приложения и сервисы с упором на чистую архитектуру, удобный UI и независимый селфхостинг.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Стек и технологии
+
+- **Frontend:** React, TypeScript, JavaScript (ES6+), Vite, Tailwind CSS, HTML5 / Modern CSS
+- **Backend:** Node.js, Express, REST API, SQLite
+- **Инфраструктура & Среда:** Linux, Docker, Docker Compose, Nginx, Git, Bash
+
+---
+
+### 🚀 Проекты
+
+- **[DevKB](https://github.com/rummelkotik/devkb)** — быстрая интерактивная база знаний и сниппетов (830+ записей) с поиском и Docker-развертыванием.
+- **[piecework-calc](https://github.com/rummelkotik/piecework-calc)** — сервис для учета посменной/сдельной работы, расчета заработка и аналитики.
+- **[soundwave-site](https://github.com/rummelkotik/soundwave-site)** — промо-лендинг с плавной анимацией и оптимизированной медиа-структурой.
+
+---
+
+### 📫 Контакты
+
+- **Telegram:** [@bushido1616](https://t.me/bushido1616)
